@@ -2,7 +2,7 @@
 
 This budget app allows you to enter transactions and see a graph of your account balance. Enter transactions offline and they will be saved when you come back online. 
 
-Checkout the [deployed app](https://blooming-citadel-84888.herokuapp.com/)
+Check out the [deployed app](https://blooming-citadel-84888.herokuapp.com/)
 
 ## Using
 
