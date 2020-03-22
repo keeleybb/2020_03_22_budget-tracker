@@ -8,6 +8,7 @@ Checkout the [deployed app](https://blooming-citadel-84888.herokuapp.com/)
 
 - MongoDB
 - Express server
+-IndexedDB
 
 # MIT License
 
